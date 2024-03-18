@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateShapes", "CalculateShapes\CalculateShapes.csproj", "{BEDA1377-519F-4992-AE1B-0870CD6E1A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateShapes.Tests", "CalculateShapes.Tests\CalculateShapes.Tests.csproj", "{8637B708-7F4D-40AC-97BB-76D13E29DE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEDA1377-519F-4992-AE1B-0870CD6E1A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDA1377-519F-4992-AE1B-0870CD6E1A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDA1377-519F-4992-AE1B-0870CD6E1A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDA1377-519F-4992-AE1B-0870CD6E1A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8637B708-7F4D-40AC-97BB-76D13E29DE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8637B708-7F4D-40AC-97BB-76D13E29DE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8637B708-7F4D-40AC-97BB-76D13E29DE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8637B708-7F4D-40AC-97BB-76D13E29DE32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
